@@ -182,7 +182,7 @@ MySQL/MariaDB
 ```
 ## System Architecture
 
-![Advisor360 System Architecture](images/system-architecture.png)
+[![Advisor360 System Architecture](images/system-architecture.png)](https://github.com/Samael1269/ArianaVenti67/blob/main/images/ERD.png)
 
 ## Entity Relationship Diagram
 
