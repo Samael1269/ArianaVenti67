@@ -1,5 +1,5 @@
 
-Spring Boot and MySQL/MariaDB backend for the Advisor360 Operating System, an AI-assisted advisory platform designed to support financial advisors with client management, scheduling, learning resources, and partner referrals.
+Spring Boot and MySQL/MariaDB backend for the Venti.ai, an AI-assisted advisory platform designed to support financial advisors with client management, scheduling, learning resources, and partner referrals.
 Project Overview
 Advisor360 is a web-based advisory support platform. The advisor is the only system actor, while clients are managed as records inside the system.
 This repository contains the backend and database work for the project, including:
