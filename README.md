@@ -182,23 +182,12 @@ MySQL/MariaDB
 ```
 ## System Architecture
 
-The frontend communicates with the Spring Boot REST API through HTTP and JSON requests. Spring Boot handles validation, business logic, and database operations using Spring Data JPA and Hibernate.
-
-<p align="center">
-  <img src=![Uploading springboot architecture.png…]()
-       alt="Advisor360 System Architecture"
-       width="850">
-</p>
+![Advisor360 System Architecture](images/system-architecture.png)
 
 ## Entity Relationship Diagram
 
-The ERD represents the database structure used to support client management, meetings, tasks, learning content, AI interactions, partner referrals, and advisor settings.
+![Advisor360 ERD](images/advisor360-erd.png)
 
-<p align="center">
-  <img src="images/advisor360-erd.png"
-       alt="Advisor360 Entity Relationship Diagram"
-       width="850">
-</p>
 Planned Improvements
 Meeting and calendar APIs
 Task checklist APIs
