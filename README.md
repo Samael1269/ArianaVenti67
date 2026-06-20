@@ -1,4 +1,4 @@
-Backend API
+<img width="972" height="664" alt="ERD" src="https://github.com/user-attachments/assets/7b5d51d7-d1de-4cac-9b30-199e41d82caf" />Backend API
 Spring Boot and MySQL/MariaDB backend for the Advisor360 Operating System, an AI-assisted advisory platform designed to support financial advisors with client management, scheduling, learning resources, and partner referrals.
 Project Overview
 Advisor360 is a web-based advisory support platform. The advisor is the only system actor, while clients are managed as records inside the system.
@@ -185,7 +185,7 @@ MySQL/MariaDB
 The frontend communicates with the Spring Boot REST API through HTTP and JSON requests. Spring Boot handles validation, business logic, and database operations using Spring Data JPA and Hibernate.
 
 <p align="center">
-  <img src="images/system-architecture.png"
+  <img src=![Uploading springboot architecture.png…]()
        alt="Advisor360 System Architecture"
        width="850">
 </p>
